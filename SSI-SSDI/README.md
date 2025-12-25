@@ -54,3 +54,14 @@ Single round Q&A, compare to human response.
   - [scenario-test-cases.jsonl](scenario-test-cases.jsonl)
 
 > 💡 For `test-cases.jsonl`, add prompt `Answer the question with yes or no.` before question will simplify the benchmark task.
+
+# Citation
+```
+@misc{georgetown_mdi_beeck_ssi_ssdi_2024,
+  author = {Raifman, Marc and Burka, Nicholas and Xu, Yuan},
+  title = {SSI-SSDI Dataset},
+  howpublished = {\url{https://github.com/Georgetown-MDI-Beeck-Collaboration/p2c2024-team-collection/tree/main/SSI-SSDI}},
+  year = {2024},
+  organization = {Georgetown MDI Beeck Collaboration}
+}
+```
